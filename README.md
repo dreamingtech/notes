@@ -59,3 +59,9 @@
   - https://study.163.com/course/courseMain.htm?courseId=1002794001&share=1&shareId=970696
 
 ---
+
+- yuanrenxue_android_reverse_note
+  - 猿人学-爬虫逆向进阶课-安卓逆向部分-笔记
+  - https://detail.youzan.com/show/goods?alias=2okabph85ypv1
+
+---
