@@ -3,8 +3,6 @@
 
 ## 目录
 
----
-
 - boxuegu_958_python_class_note
   - 博学谷-Python在线就业班-笔记
   - https://www.boxuegu.com/class/detail-958.html
@@ -20,7 +18,6 @@
 - boxuegu_spider_framework_dev_note
   - 博学谷-仿 scrapy 爬虫框架开发-笔记
 
-
 ---
 
 - cda_aplus_note
@@ -31,6 +28,11 @@
 
 - cda_data_analysis_note
   - cda 数据分析笔记
+
+---
+
+- develop_environment_setup_note
+  - 开发环境配置 
 
 ---
 
@@ -56,3 +58,4 @@
   - 网易云课堂-四周实现爬虫网站-笔记
   - https://study.163.com/course/courseMain.htm?courseId=1002794001&share=1&shareId=970696
 
+---
