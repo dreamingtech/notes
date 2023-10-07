@@ -65,3 +65,14 @@
   - https://detail.youzan.com/show/goods?alias=2okabph85ypv1
 
 ---
+
+- imooc_class_180_go
+  - Google资深工程师深度讲解Go语言
+  - https://coding.imooc.com/class/180.html
+
+---
+- geek_100114501_k8s_basic
+  - Kubernetes 入门实战课
+  - https://time.geekbang.org/column/intro/100114501
+
+---
